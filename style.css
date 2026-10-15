@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #101827;
+  color: white;
+  text-align: center;
+  padding: 30px;
+}
+
+main {
+  max-width: 600px;
+  margin: auto;
+  padding: 25px;
+  background: #1e293b;
+  border-radius: 15px;
+}
+
+h1 {
+  color: #60a5fa;
+}
+
+button {
+  background: #3b82f6;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  margin: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #2563eb;
+}
+
+[hidden] {
+  display: none;
+}
